@@ -12,7 +12,3 @@ Since SAS Virtual Lab has an access limit of 180 days and the loading time can t
 - <ins>Course Producer</ins>: SAS Institute Inc.
 - <ins>Course Title</ins>: SAS Programming 1 Essentials
 - <ins>Course URL</ins>: https://support.sas.com/edu/schedules.html?crs=PROG1
-
-<br />
-
-*Last modified date: Mar 21, 2022*
