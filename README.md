@@ -1,4 +1,6 @@
-<!-- This is a README file for an online course. -->
+<!-- README file for online courses -->
+
+# SAS Programming 1: Essentials
 
 ## Repository Description 
 
