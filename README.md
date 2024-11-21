@@ -10,3 +10,7 @@ Courses
    - 19 hours
 4. Inheritance and Data Structures in Java
    - 21 hours
+
+&nbsp;
+
+*1st Completion Date: Xxx 00, 0000*&emsp;
